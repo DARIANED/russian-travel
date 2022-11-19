@@ -12,7 +12,7 @@
 @media screen and (max-width: 500px) {
     .place__website {
         max-width: 288px;
-        margin: 32px 20px 32px;
+        margin: 32px auto 32px;
     }
 }
 
