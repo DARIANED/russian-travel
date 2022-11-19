@@ -18,7 +18,7 @@
 @media screen and (max-width: 320px) {
     .photo-grid__item {
         max-width: 288px;
-        margin-bottom: 8px;
+        margin-bottom: 9px;
      }
 
      .photo-grid__item:last-of-type {
