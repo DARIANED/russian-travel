@@ -25,7 +25,6 @@
 @import url(../blocks/intro/__text/intro__text.css);
 @import url(../blocks/intro/__list/intro__list.css);
 @import url(../blocks/intro/__span-accent/intro__span-accent.css);
-@import url(../blocks/intro/__span-accent/_uppercase/intro__span-accent_uppercase.css);
 
 /*photo-grid*/
 @import url(../blocks/photo-grid/photo-grid.css);
